@@ -10,5 +10,11 @@
     "usuario": "Ángel",
     "comentario": "Fueron muy lentos en atendernos pero luego la comida estaba exquisita. Les daré otra oportunidad",
     "puntuacion": 3
+  },
+  {
+    "id": "dc753b2b-da64-4bc0-9507-37df68a49a81",
+    "usuario": "Paola",
+    "comentario": "hola",
+    "puntuacion": 5
   }
 ]
